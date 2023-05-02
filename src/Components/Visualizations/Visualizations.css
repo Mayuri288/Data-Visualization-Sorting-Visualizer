@@ -1,0 +1,8 @@
+/* src/components/visualizations/Visualizations.css */
+.visualizations {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    flex-wrap: wrap;
+  }
+  
